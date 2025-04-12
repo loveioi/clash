@@ -613,5 +613,6 @@ payload:
   - IP-CIDR,211.115.104.1/32
   - IP-CIDR,24.105.62.129/32
 # honor of knights 王者荣耀
-  - IP-CIDR, 183.192.65.101/16
-  - IP-CIDR, 43.132.55.55/16
+  - IP-CIDR,183.192.65.101/16
+  - IP-CIDR,43.132.55.55/16
+  - IP-CIDR,10.10.0.111/32,DIRECT      # 指定 IP 直连
